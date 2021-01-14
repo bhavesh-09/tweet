@@ -1,2 +1,2 @@
-web: gunicorn tweetbook.wsgi --log-file-
+web: gunicorn tweetbook.wsgi --log-file -
 
